@@ -20,7 +20,8 @@ struct ContentView: View {
 }
 //code 1
 //code 2
-// The last commit 
+// The last commit
+//commit for the 3 branhce
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
